@@ -1,4 +1,4 @@
-![.NET CI](https://github.com)
+[![.NET CI](https://github.com/larry-noriega/Global-Event-Ingestion-Persistence-Engine/actions/workflows/dotnet.yml/badge.svg)](https://github.com/larry-noriega/Global-Event-Ingestion-Persistence-Engine/actions/workflows/dotnet.yml)   
 # Distributed High-Throughput Event Engine (100K+ RPS)
 
 <img width="1091" height="910" alt="Capture d’écran du 2026-04-25 01-38-33" src="https://github.com/user-attachments/assets/5ff031fb-0438-4570-bf30-d62ad6945897" />
